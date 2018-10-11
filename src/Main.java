@@ -4,6 +4,7 @@ public class Main {
         byte alter= 20;
         String vorname= "Nicolas";
         String nachname= "Bochejny";
-        System.out.println("Hello " + vorname + " " + nachname + " you are " + alter + " years old yo");
+        int jahrgang= 1998;
+        System.out.println("Hello " + vorname + " " + nachname + " you are " + alter + " years old yo and born in " + jahrgang);
     }
 }
