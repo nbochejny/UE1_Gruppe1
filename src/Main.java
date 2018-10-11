@@ -5,6 +5,7 @@ public class Main {
         String vorname= "Nicolas";
         String nachname= "Bochejny";
         int jahrgang= 1998;
-        System.out.println("Hello " + vorname + " " + nachname + " you are " + alter + " years old yo and born in " + jahrgang);
+        String herkunft= "Germany";
+        System.out.println("Hello " + vorname + " " + nachname + " you are " + alter + " years old yo and born in "+ herkunft + " " + jahrgang);
     }
 }
